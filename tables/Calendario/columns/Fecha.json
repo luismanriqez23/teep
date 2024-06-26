@@ -1,0 +1,39 @@
+{
+  "type": "calculated",
+  "name": "Fecha",
+  "dataType": "dateTime",
+  "isDataTypeInferred": true,
+  "expression": "Calendario[FechaInicial].[Date]",
+  "formatString": "Short Date",
+  "lineageTag": "73c1cb57-b4b4-4d69-8a25-dd705cc21e1b",
+  "summarizeBy": "none",
+  "variations": [
+    {
+      "name": "Variation",
+      "relationship": "758fece5-d68f-424d-84c3-f4964feb8cf4",
+      "defaultHierarchy": {
+        "table": "LocalDateTable_a9b58965-ed79-464e-b05c-d84bda280faf",
+        "hierarchy": "Jerarquía de fechas"
+      },
+      "isDefault": true
+    }
+  ],
+  "changedProperties": [
+    {
+      "property": "DataType"
+    },
+    {
+      "property": "FormatString"
+    }
+  ],
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "UnderlyingDateTimeDataType",
+      "value": "Date"
+    }
+  ]
+}

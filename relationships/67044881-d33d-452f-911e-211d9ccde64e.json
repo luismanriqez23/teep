@@ -1,0 +1,7 @@
+{
+  "name": "67044881-d33d-452f-911e-211d9ccde64e",
+  "fromTable": "ProgramacionHistorica",
+  "fromColumn": "maquina_real",
+  "toTable": "Maquina",
+  "toColumn": "MaquinaReal"
+}

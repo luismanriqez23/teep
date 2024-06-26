@@ -1,0 +1,12 @@
+{
+  "name": "Horas del turno Hist",
+  "expression": [
+    "",
+    "SUMX(",
+    "    SUMMARIZE(Maquina, Maquina[CodMaquina],\"TiempoTotal\",",
+    "        DISTINCTCOUNT(Calendario[FechaInicial])*8),",
+    "        [TiempoTotal])"
+  ],
+  "formatString": "0",
+  "lineageTag": "9706a4ba-b745-4f35-b180-47a146852a9e"
+}

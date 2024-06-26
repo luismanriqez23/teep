@@ -1,0 +1,5 @@
+{
+  "name": "Maquina seleccionada",
+  "expression": "MIN(Maquina[DescMaquina])",
+  "lineageTag": "80b89b9c-006f-4119-8a9b-a039437fb288"
+}

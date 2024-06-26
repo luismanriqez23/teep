@@ -1,0 +1,14 @@
+{
+  "name": "DescDetencion",
+  "dataType": "string",
+  "sourceColumn": "DescDetencion",
+  "sourceProviderType": "nvarchar(255)",
+  "lineageTag": "55edb2e2-5df0-44ff-81cf-cead076d535a",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

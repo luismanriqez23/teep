@@ -1,0 +1,10 @@
+{
+  "name": "KilosHistorico",
+  "lineageTag": "c4158a72-379a-4696-9701-15280dec2373",
+  "annotations": [
+    {
+      "name": "PBI_ResultType",
+      "value": "Table"
+    }
+  ]
+}

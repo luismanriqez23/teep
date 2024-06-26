@@ -1,0 +1,5 @@
+{
+  "name": "Velocidad prog",
+  "expression": "IF(MAX(ProgramacionHistorica[Velocidad])= BLANK(),\"\",FORMAT(MAX(ProgramacionHistorica[Velocidad]),\"\"))",
+  "lineageTag": "46b960d2-5c22-4f66-a9fc-b85518c1678b"
+}

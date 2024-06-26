@@ -1,0 +1,10 @@
+{
+  "name": "Color encendido/apagado fbb5-1",
+  "expression": [
+    "",
+    "",
+    "CALCULATE(",
+    "IF(MAX(TurnoActualEncendido[Valor])=\"0\",\"#FF0000\",\"#20F330\" ), Maquina[CodMaquina]=50)"
+  ],
+  "lineageTag": "ccaf6387-a74a-4e4b-8068-b0a676807928"
+}

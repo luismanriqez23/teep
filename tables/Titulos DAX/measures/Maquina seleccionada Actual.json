@@ -1,0 +1,5 @@
+{
+  "name": "Maquina seleccionada Actual",
+  "expression": "MIN(PerdidasActual[DescMaquina])",
+  "lineageTag": "61394518-1d79-451c-af96-78ffd8355300"
+}

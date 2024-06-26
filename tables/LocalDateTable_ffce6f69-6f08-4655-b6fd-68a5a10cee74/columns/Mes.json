@@ -1,0 +1,22 @@
+{
+  "type": "calculated",
+  "name": "Mes",
+  "dataType": "string",
+  "isDataTypeInferred": true,
+  "isHidden": true,
+  "expression": "FORMAT([Date], \"MMMM\")",
+  "sortByColumn": "NroMes",
+  "lineageTag": "a21d0317-d8e6-4eff-b78a-c7457b2d7308",
+  "dataCategory": "Months",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "User"
+    },
+    {
+      "name": "TemplateId",
+      "value": "Month"
+    }
+  ]
+}

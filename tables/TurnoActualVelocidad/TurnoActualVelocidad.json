@@ -1,0 +1,10 @@
+{
+  "name": "TurnoActualVelocidad",
+  "lineageTag": "a28c0a8f-4ab3-4c81-89eb-dd159585bcbc",
+  "annotations": [
+    {
+      "name": "PBI_ResultType",
+      "value": "Table"
+    }
+  ]
+}

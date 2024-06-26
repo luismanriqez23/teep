@@ -1,0 +1,15 @@
+{
+  "name": "valor_num",
+  "dataType": "int64",
+  "sourceColumn": "valor_num",
+  "formatString": "0",
+  "sourceProviderType": "int",
+  "lineageTag": "1bdd79e3-52de-4fa6-be43-f8ae7cac206a",
+  "summarizeBy": "sum",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

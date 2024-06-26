@@ -1,0 +1,14 @@
+{
+  "name": "Detencion-a0fc20e3-bf07-40ec-9208-e42549caaeb2",
+  "mode": "import",
+  "source": {
+    "type": "m",
+    "expression": [
+      "let",
+      "    Origen = Sql.Database(\"192.168.4.3\", \"Teep\"),",
+      "    dbo_Detencion = Origen{[Schema=\"dbo\",Item=\"Detencion\"]}[Data]",
+      "in",
+      "    dbo_Detencion"
+    ]
+  }
+}

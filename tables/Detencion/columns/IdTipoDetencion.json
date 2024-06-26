@@ -1,0 +1,14 @@
+{
+  "name": "IdTipoDetencion",
+  "dataType": "int64",
+  "sourceColumn": "IdTipoDetencion",
+  "formatString": "0",
+  "lineageTag": "03f2cea2-ecfe-4442-8f28-cbd7fa9fd8e9",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

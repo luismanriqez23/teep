@@ -1,0 +1,17 @@
+{
+  "name": "hm",
+  "dataType": "double",
+  "sourceColumn": "hm",
+  "lineageTag": "85528720-c812-4519-bcc2-6ce44566e472",
+  "summarizeBy": "sum",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "PBI_FormatHint",
+      "value": "{\"isGeneralNumber\":true}"
+    }
+  ]
+}

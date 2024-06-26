@@ -1,0 +1,10 @@
+{
+  "name": "Maquina",
+  "lineageTag": "5c86f352-1ff4-438a-936c-937226d77ed4",
+  "annotations": [
+    {
+      "name": "PBI_ResultType",
+      "value": "Table"
+    }
+  ]
+}

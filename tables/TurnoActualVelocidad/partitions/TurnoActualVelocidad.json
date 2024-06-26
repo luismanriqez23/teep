@@ -1,0 +1,13 @@
+{
+  "name": "TurnoActualVelocidad",
+  "mode": "directQuery",
+  "source": {
+    "type": "m",
+    "expression": [
+      "let",
+      "    Source = Sql.Database(\"192.168.4.3\", \"Teep\", [Query=\"select *#(lf)from BI_velocidades_maquinas\"])",
+      "in",
+      "    Source"
+    ]
+  }
+}

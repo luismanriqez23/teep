@@ -1,0 +1,11 @@
+{
+  "name": "Horas del turno Act",
+  "expression": "MAX(PerdidasActual[Turno_Prog])",
+  "lineageTag": "2db25f10-2155-4928-8b2a-5ae671a2df76",
+  "annotations": [
+    {
+      "name": "PBI_FormatHint",
+      "value": "{\"isGeneralNumber\":true}"
+    }
+  ]
+}

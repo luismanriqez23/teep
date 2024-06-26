@@ -1,0 +1,26 @@
+{
+  "name": "FechaFinal",
+  "dataType": "dateTime",
+  "sourceColumn": "FechaFinal",
+  "formatString": "General Date",
+  "sourceProviderType": "datetime",
+  "lineageTag": "2dec1359-2352-4bb7-959e-bcf796f02473",
+  "summarizeBy": "none",
+  "variations": [
+    {
+      "name": "Variation",
+      "relationship": "53dc54ad-0c00-4049-8676-39ed85febd77",
+      "defaultHierarchy": {
+        "table": "LocalDateTable_4a2e5569-6002-4271-940f-dc8fbe3366b1",
+        "hierarchy": "Jerarquía de fechas"
+      },
+      "isDefault": true
+    }
+  ],
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

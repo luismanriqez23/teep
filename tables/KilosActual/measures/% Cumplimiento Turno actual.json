@@ -1,0 +1,11 @@
+{
+  "name": "% Cumplimiento Turno actual",
+  "expression": "DIVIDE([Ton Actual],SUM(ProgramacionHistorica[Ton programado historico]),0)",
+  "formatString": "0\\ %;-0\\ %;0\\ %",
+  "lineageTag": "90a8ec6c-b160-49fe-9ace-4726a15bb62e",
+  "changedProperties": [
+    {
+      "property": "FormatString"
+    }
+  ]
+}

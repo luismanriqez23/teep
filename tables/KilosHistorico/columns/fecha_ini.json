@@ -1,0 +1,14 @@
+{
+  "name": "fecha_ini",
+  "dataType": "dateTime",
+  "sourceColumn": "fecha_ini",
+  "formatString": "General Date",
+  "lineageTag": "7a81947a-91da-4017-b92a-f6c7f081fe05",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

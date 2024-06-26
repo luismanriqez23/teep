@@ -1,0 +1,18 @@
+{
+  "name": "Velocidad",
+  "dataType": "double",
+  "sourceColumn": "Velocidad",
+  "sourceProviderType": "float",
+  "lineageTag": "be7212e1-b768-4b8b-bf7f-826ee84dbfbe",
+  "summarizeBy": "sum",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "PBI_FormatHint",
+      "value": "{\"isGeneralNumber\":true}"
+    }
+  ]
+}

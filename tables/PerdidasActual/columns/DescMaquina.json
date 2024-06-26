@@ -1,0 +1,15 @@
+{
+  "name": "DescMaquina",
+  "dataType": "string",
+  "isNullable": false,
+  "sourceColumn": "DescMaquina",
+  "sourceProviderType": "varchar(8000)",
+  "lineageTag": "bc3cd1e7-da56-46aa-88e9-9c0cc9824460",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

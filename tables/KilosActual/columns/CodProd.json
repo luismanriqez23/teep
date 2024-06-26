@@ -1,0 +1,14 @@
+{
+  "name": "CodProd",
+  "dataType": "string",
+  "sourceColumn": "CodProd",
+  "sourceProviderType": "varchar(100)",
+  "lineageTag": "0e7f3091-249e-4c7b-92b7-666e8217f768",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

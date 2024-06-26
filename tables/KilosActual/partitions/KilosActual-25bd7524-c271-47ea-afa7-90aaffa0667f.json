@@ -1,0 +1,13 @@
+{
+  "name": "KilosActual-25bd7524-c271-47ea-afa7-90aaffa0667f",
+  "mode": "directQuery",
+  "source": {
+    "type": "m",
+    "expression": [
+      "let",
+      "    Source = Sql.Database(\"192.168.4.3\", \"Teep\", [Query=\"SELECT [CodMaquina]#(lf)      ,[fecha_ini]#(lf)      ,[CodProd]#(lf)      ,[Velocidad]#(lf)      ,[Kilos]#(lf)      ,Factor_vel#(lf)  FROM [Teep].[dbo].[DWH_KilosTurnoActual]\"])",
+      "in",
+      "    Source"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "calculated",
+  "name": "NroTrimestre",
+  "dataType": "int64",
+  "isDataTypeInferred": true,
+  "isHidden": true,
+  "expression": "INT(([NroMes] + 2) / 3)",
+  "lineageTag": "d5a6e392-6aef-42f6-b1e6-fcfe46303918",
+  "dataCategory": "QuarterOfYear",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "User"
+    },
+    {
+      "name": "TemplateId",
+      "value": "QuarterNumber"
+    }
+  ]
+}

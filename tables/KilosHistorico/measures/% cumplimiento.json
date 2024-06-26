@@ -1,0 +1,11 @@
+{
+  "name": "% cumplimiento",
+  "expression": "DIVIDE(SUM(KilosHistorico[Ton historico]),SUM(ProgramacionHistorica[Ton programado historico]),0)",
+  "formatString": "0\\ %;-0\\ %;0\\ %",
+  "lineageTag": "035e0663-4c36-4a01-926a-5af756d12297",
+  "changedProperties": [
+    {
+      "property": "FormatString"
+    }
+  ]
+}

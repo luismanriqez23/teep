@@ -1,0 +1,13 @@
+{
+  "name": "CodProd",
+  "dataType": "string",
+  "sourceColumn": "CodProd",
+  "lineageTag": "ad189a42-2486-4259-aa0c-d7bd6ec65a11",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

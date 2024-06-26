@@ -1,0 +1,16 @@
+{
+  "name": "CodGrupo",
+  "dataType": "int64",
+  "isNullable": false,
+  "sourceColumn": "CodGrupo",
+  "formatString": "0",
+  "sourceProviderType": "int",
+  "lineageTag": "4fea06f6-50cb-4a37-a1b2-35be2af60106",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

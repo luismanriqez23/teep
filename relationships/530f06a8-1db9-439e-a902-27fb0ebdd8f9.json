@@ -1,0 +1,8 @@
+{
+  "name": "530f06a8-1db9-439e-a902-27fb0ebdd8f9",
+  "fromTable": "Calendario",
+  "fromColumn": "FechaInicial",
+  "toTable": "LocalDateTable_7826afd7-bcbe-4b01-ad13-4ff941146483",
+  "toColumn": "Date",
+  "joinOnDateBehavior": "datePartOnly"
+}

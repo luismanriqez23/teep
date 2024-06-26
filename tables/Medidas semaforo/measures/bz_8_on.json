@@ -1,0 +1,9 @@
+{
+  "name": "bz_8_on",
+  "expression": [
+    "",
+    "        var valor= CALCULATE(MAX(TurnoActualEncendido[valor]),Maquina[CodMaquina]=34)",
+    "        return SWITCH(valor,1,\"#7BF4B1\",0,\"#B92A33\",3,\"#808080\")"
+  ],
+  "lineageTag": "b053dfa3-d669-407d-b10c-6397be926943"
+}

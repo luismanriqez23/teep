@@ -1,0 +1,8 @@
+{
+  "name": "96bdab25-f644-4e9d-85d8-7242c42d04c8",
+  "fromTable": "ProgramacionHistorica",
+  "fromColumn": "fecha_programa",
+  "toTable": "LocalDateTable_ffce6f69-6f08-4655-b6fd-68a5a10cee74",
+  "toColumn": "Date",
+  "joinOnDateBehavior": "datePartOnly"
+}

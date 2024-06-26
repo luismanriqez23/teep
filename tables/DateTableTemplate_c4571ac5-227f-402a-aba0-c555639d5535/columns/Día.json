@@ -1,0 +1,21 @@
+{
+  "type": "calculated",
+  "name": "Día",
+  "dataType": "int64",
+  "isDataTypeInferred": true,
+  "isHidden": true,
+  "expression": "DAY([Date])",
+  "lineageTag": "4bdb4955-d222-43ea-8d03-c6194f9c5754",
+  "dataCategory": "DayOfMonth",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "User"
+    },
+    {
+      "name": "TemplateId",
+      "value": "Day"
+    }
+  ]
+}

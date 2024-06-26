@@ -1,0 +1,6 @@
+{
+  "name": "Turnos Total",
+  "expression": "DISTINCTCOUNT(Calendario[FechaInicial])",
+  "formatString": "0",
+  "lineageTag": "9d74dd85-10fc-41f0-9863-0ee163214450"
+}

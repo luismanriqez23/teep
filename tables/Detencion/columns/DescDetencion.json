@@ -1,0 +1,13 @@
+{
+  "name": "DescDetencion",
+  "dataType": "string",
+  "sourceColumn": "DescDetencion",
+  "lineageTag": "f8e5b909-aa13-4e43-8119-462748dfc314",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

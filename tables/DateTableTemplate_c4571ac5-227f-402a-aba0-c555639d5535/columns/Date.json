@@ -1,0 +1,18 @@
+{
+  "type": "calculatedTableColumn",
+  "name": "Date",
+  "dataType": "dateTime",
+  "isNameInferred": true,
+  "isDataTypeInferred": true,
+  "isHidden": true,
+  "sourceColumn": "[Date]",
+  "lineageTag": "19a46770-9dbd-4f0d-ae34-2752b0b6d163",
+  "dataCategory": "PaddedDateTableDates",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "User"
+    }
+  ]
+}

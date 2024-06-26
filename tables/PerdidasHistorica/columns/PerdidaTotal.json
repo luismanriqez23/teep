@@ -1,0 +1,17 @@
+{
+  "name": "PerdidaTotal",
+  "dataType": "double",
+  "sourceColumn": "PerdidaTotal",
+  "lineageTag": "70553eb3-38b0-4ed3-85ba-c71c561442da",
+  "summarizeBy": "sum",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "PBI_FormatHint",
+      "value": "{\"isGeneralNumber\":true}"
+    }
+  ]
+}

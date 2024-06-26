@@ -1,0 +1,7 @@
+{
+  "name": "58af984d-de0d-4c12-8582-c8efe434d205",
+  "fromTable": "KilosHistorico",
+  "fromColumn": "CodMaquina",
+  "toTable": "Maquina",
+  "toColumn": "CodMaquina"
+}

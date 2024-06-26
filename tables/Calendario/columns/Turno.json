@@ -1,0 +1,15 @@
+{
+  "name": "Turno",
+  "dataType": "int64",
+  "sourceColumn": "Turno",
+  "formatString": "0",
+  "sourceProviderType": "int",
+  "lineageTag": "ce44e17c-a656-4a45-8c91-f794e9467b0e",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "User"
+    }
+  ]
+}

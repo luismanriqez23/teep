@@ -1,0 +1,16 @@
+{
+  "name": "actualizacion",
+  "dataType": "dateTime",
+  "isNullable": false,
+  "sourceColumn": "actualizacion",
+  "formatString": "General Date",
+  "sourceProviderType": "datetime",
+  "lineageTag": "c032cb6a-c633-47a4-9c3a-521cee0c2691",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

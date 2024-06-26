@@ -1,0 +1,16 @@
+{
+  "name": "OEE Act",
+  "expression": [
+    "",
+    "VAR oee = DIVIDE([HM Real Act],[HM Prog Act],BLANK()) ",
+    "",
+    "RETURN IF(oee<0,0,oee)"
+  ],
+  "formatString": "0\\ %;-0\\ %;0\\ %",
+  "lineageTag": "e0f39f9f-6c85-4432-a2ba-7a2e283735eb",
+  "changedProperties": [
+    {
+      "property": "FormatString"
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+{
+  "name": "Titulo turno actual",
+  "expression": "\"Turno: \" & FORMAT(MAX(Calendario[FechaInicial]),\"dddddd hh:mm\")",
+  "lineageTag": "f721acbd-4f6e-45d3-a406-d35c04aef99d"
+}

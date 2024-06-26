@@ -1,0 +1,10 @@
+{
+  "name": "Detencion",
+  "lineageTag": "2d0c575b-cc1c-475e-a629-226e229c2c40",
+  "annotations": [
+    {
+      "name": "PBI_ResultType",
+      "value": "Table"
+    }
+  ]
+}

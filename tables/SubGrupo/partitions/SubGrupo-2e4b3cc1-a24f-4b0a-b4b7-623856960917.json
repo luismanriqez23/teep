@@ -1,0 +1,14 @@
+{
+  "name": "SubGrupo-2e4b3cc1-a24f-4b0a-b4b7-623856960917",
+  "mode": "import",
+  "source": {
+    "type": "m",
+    "expression": [
+      "let",
+      "    Source = Sql.Database(\"192.168.4.3\", \"Teep\"),",
+      "    dbo_SubGrupo = Source{[Schema=\"dbo\",Item=\"SubGrupo\"]}[Data]",
+      "in",
+      "    dbo_SubGrupo"
+    ]
+  }
+}

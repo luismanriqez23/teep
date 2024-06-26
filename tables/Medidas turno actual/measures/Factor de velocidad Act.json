@@ -1,0 +1,17 @@
+{
+  "name": "Factor de velocidad Act",
+  "expression": [
+    "",
+    "",
+    "VAR Factor= MAX(KilosActual[Factor_vel])",
+    "",
+    "RETURN IF(Factor>1 || Factor = BLANK(), 1 , Factor) "
+  ],
+  "lineageTag": "e54628cd-6ec9-4fff-afde-4caa96a9360c",
+  "annotations": [
+    {
+      "name": "PBI_FormatHint",
+      "value": "{\"isGeneralNumber\":true}"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Activo",
+  "dataType": "boolean",
+  "sourceColumn": "Activo",
+  "formatString": "\"TRUE\";\"TRUE\";\"FALSE\"",
+  "lineageTag": "56b2df5c-915e-45f2-9695-46f0d48cdddb",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

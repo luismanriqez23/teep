@@ -1,0 +1,7 @@
+{
+  "name": "c78c0f20-341a-4d68-a8c8-b8312fd78954",
+  "fromTable": "PerdidasHistorica",
+  "fromColumn": "CodMaquina",
+  "toTable": "Maquina",
+  "toColumn": "CodMaquina"
+}

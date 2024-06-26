@@ -1,0 +1,14 @@
+{
+  "name": "% Perdida Hist",
+  "expression": [
+    "DIVIDE([Perdidas HR], [Perdida Total Hist],0) * (1- [OEE Hist])",
+    ""
+  ],
+  "formatString": "0\\ %;-0\\ %;0\\ %",
+  "lineageTag": "e951bbb1-3bf4-4e80-9501-00014caaa807",
+  "changedProperties": [
+    {
+      "property": "FormatString"
+    }
+  ]
+}

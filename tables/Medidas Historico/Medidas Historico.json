@@ -1,0 +1,10 @@
+{
+  "name": "Medidas Historico",
+  "lineageTag": "e7ce88ba-673f-4b34-aa64-fe176b636694",
+  "annotations": [
+    {
+      "name": "PBI_ResultType",
+      "value": "Table"
+    }
+  ]
+}

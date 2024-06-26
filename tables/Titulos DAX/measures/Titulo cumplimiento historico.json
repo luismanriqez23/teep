@@ -1,0 +1,5 @@
+{
+  "name": "Titulo cumplimiento historico",
+  "expression": "\"Cumplimiento \" & MIN(SubGrupo[DescSubGrupo]) &\" \"& SUBSTITUTE(LEFT(FORMAT(ROUND([% cumplimiento]*100,0),\"Currency\"),3),\",\",\"\") & \"% (Ton)\"",
+  "lineageTag": "165c7509-3b16-4ddc-866d-a3b0dc6bcfdc"
+}

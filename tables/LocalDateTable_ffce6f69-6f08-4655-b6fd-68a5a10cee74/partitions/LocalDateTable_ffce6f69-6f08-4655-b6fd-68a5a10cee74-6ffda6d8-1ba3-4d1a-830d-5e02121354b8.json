@@ -1,0 +1,8 @@
+{
+  "name": "LocalDateTable_ffce6f69-6f08-4655-b6fd-68a5a10cee74-6ffda6d8-1ba3-4d1a-830d-5e02121354b8",
+  "mode": "import",
+  "source": {
+    "type": "calculated",
+    "expression": "Calendar(Date(Year(MIN('ProgramacionHistorica'[fecha_programa])), 1, 1), Date(Year(MAX('ProgramacionHistorica'[fecha_programa])), 12, 31))"
+  }
+}

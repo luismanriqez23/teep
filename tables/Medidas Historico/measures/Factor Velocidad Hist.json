@@ -1,0 +1,23 @@
+{
+  "name": "Factor Velocidad Hist",
+  "expression": [
+    "",
+    "",
+    "VAR factor_hist=",
+    "DIVIDE(IF(MAX(KilosHistorico[Velocidad]) =BLANK(),0, MAX(KilosHistorico[Velocidad])), --si no tiene producción y está programada: OEE=0%",
+    "            MAX(ProgramacionHistorica[Velocidad]),1)",
+    "",
+    " ",
+    "",
+    "RETURN",
+    "IF(factor_hist>1 ,1, factor_hist)",
+    ""
+  ],
+  "formatString": "0.00\\ %;-0.00\\ %;0.00\\ %",
+  "lineageTag": "9762c142-d580-42bf-b615-208f25edd670",
+  "changedProperties": [
+    {
+      "property": "FormatString"
+    }
+  ]
+}

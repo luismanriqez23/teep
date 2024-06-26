@@ -1,0 +1,15 @@
+{
+  "type": "calculated",
+  "name": "Año - Semana",
+  "dataType": "string",
+  "isDataTypeInferred": true,
+  "expression": "Calendario[Fecha].[Año] &\" - \"& WEEKNUM(Calendario[Fecha])  ",
+  "lineageTag": "ab9fd304-8ba4-4e5e-aeb8-9fb4373f8f1d",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "cod_producir",
+  "dataType": "string",
+  "sourceColumn": "cod_producir",
+  "lineageTag": "ff3b330b-4228-44ca-9dc4-aee6e397bb5d",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

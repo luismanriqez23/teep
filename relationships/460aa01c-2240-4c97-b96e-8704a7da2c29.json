@@ -1,0 +1,7 @@
+{
+  "name": "460aa01c-2240-4c97-b96e-8704a7da2c29",
+  "fromTable": "PerdidasActual",
+  "fromColumn": "CodMaquina",
+  "toTable": "Maquina",
+  "toColumn": "CodMaquina"
+}

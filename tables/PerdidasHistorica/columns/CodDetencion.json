@@ -1,0 +1,14 @@
+{
+  "name": "CodDetencion",
+  "dataType": "int64",
+  "sourceColumn": "CodDetencion",
+  "formatString": "0",
+  "lineageTag": "9bb45cd9-ba2c-4509-af69-7df3912f21ed",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

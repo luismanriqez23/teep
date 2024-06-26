@@ -1,0 +1,10 @@
+{
+  "name": "Titulos DAX",
+  "lineageTag": "32fc25e3-a812-4310-a6c1-e7bc53b20276",
+  "annotations": [
+    {
+      "name": "PBI_ResultType",
+      "value": "Table"
+    }
+  ]
+}

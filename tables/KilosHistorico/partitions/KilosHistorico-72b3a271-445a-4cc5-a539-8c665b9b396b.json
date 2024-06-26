@@ -1,0 +1,14 @@
+{
+  "name": "KilosHistorico-72b3a271-445a-4cc5-a539-8c665b9b396b",
+  "mode": "import",
+  "source": {
+    "type": "m",
+    "expression": [
+      "let",
+      "    Origen = Sql.Database(\"192.168.4.3\", \"Teep_DWH\"),",
+      "    dbo_FT_ProduccionKilos = Origen{[Schema=\"dbo\",Item=\"FT_ProduccionKilos\"]}[Data]",
+      "in",
+      "    dbo_FT_ProduccionKilos"
+    ]
+  }
+}

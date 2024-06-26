@@ -1,0 +1,11 @@
+{
+  "name": "HM Prog Act",
+  "expression": "MAX(PerdidasActual[HM])",
+  "lineageTag": "17e35f77-f81c-461b-9c95-f8a2f7ec6e0c",
+  "annotations": [
+    {
+      "name": "PBI_FormatHint",
+      "value": "{\"isGeneralNumber\":true}"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Velocidad",
+  "dataType": "double",
+  "sourceColumn": "Velocidad",
+  "formatString": "#,0",
+  "lineageTag": "7354f85d-4373-407e-a39c-c71ce800674a",
+  "summarizeBy": "sum",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "PBI_FormatHint",
+      "value": "{\"isDecimal\":true}"
+    }
+  ]
+}

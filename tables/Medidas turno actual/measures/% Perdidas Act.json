@@ -1,0 +1,11 @@
+{
+  "name": "% Perdidas Act",
+  "expression": "DIVIDE( [Perdidas Act] , [Perdida Total Act] , 0) * (1-[OEE Act]) ",
+  "formatString": "0\\ %;-0\\ %;0\\ %",
+  "lineageTag": "17d798a8-b525-4d7f-af37-7d7081812ae7",
+  "changedProperties": [
+    {
+      "property": "FormatString"
+    }
+  ]
+}

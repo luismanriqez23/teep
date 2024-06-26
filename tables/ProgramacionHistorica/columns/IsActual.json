@@ -1,0 +1,14 @@
+{
+  "name": "IsActual",
+  "dataType": "int64",
+  "sourceColumn": "IsActual",
+  "formatString": "0",
+  "lineageTag": "0954b220-ad48-450a-a451-4637e7154c9e",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "User"
+    }
+  ]
+}

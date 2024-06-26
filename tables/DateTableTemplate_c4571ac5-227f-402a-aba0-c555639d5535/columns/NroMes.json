@@ -1,0 +1,21 @@
+{
+  "type": "calculated",
+  "name": "NroMes",
+  "dataType": "int64",
+  "isDataTypeInferred": true,
+  "isHidden": true,
+  "expression": "MONTH([Date])",
+  "lineageTag": "30c542ad-ca31-49e9-9f5f-7f021e6f9d7b",
+  "dataCategory": "MonthOfYear",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "User"
+    },
+    {
+      "name": "TemplateId",
+      "value": "MonthNumber"
+    }
+  ]
+}

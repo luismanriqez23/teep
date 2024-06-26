@@ -1,0 +1,9 @@
+{
+  "name": "e97eeabd-b3b2-47e5-9cca-aed51ae3452b",
+  "fromCardinality": "one",
+  "fromTable": "Metas",
+  "fromColumn": "CodMaquina",
+  "toTable": "Maquina",
+  "toColumn": "CodMaquina",
+  "crossFilteringBehavior": "bothDirections"
+}

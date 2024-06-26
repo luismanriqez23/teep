@@ -1,0 +1,14 @@
+{
+  "name": "Orden",
+  "dataType": "int64",
+  "sourceColumn": "Orden",
+  "formatString": "0",
+  "lineageTag": "32fde25b-4d63-4ab0-bd29-1f1c8a30ea23",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "User"
+    }
+  ]
+}

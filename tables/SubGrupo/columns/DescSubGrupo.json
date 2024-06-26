@@ -1,0 +1,13 @@
+{
+  "name": "DescSubGrupo",
+  "dataType": "string",
+  "sourceColumn": "DescSubGrupo",
+  "lineageTag": "45496db6-877b-4844-aeb3-f324597bfb3d",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

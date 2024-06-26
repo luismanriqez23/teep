@@ -1,0 +1,10 @@
+{
+  "name": "Medidas turno actual",
+  "lineageTag": "58bdf1d4-1479-44c6-96ae-9ce7b6871183",
+  "annotations": [
+    {
+      "name": "PBI_ResultType",
+      "value": "Table"
+    }
+  ]
+}

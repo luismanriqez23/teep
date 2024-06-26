@@ -1,0 +1,6 @@
+{
+  "name": "Horas Total Historico",
+  "expression": "[Turnos Total]*8",
+  "formatString": "0",
+  "lineageTag": "3fa82ac1-d79d-4cdc-ba92-a872452dcb12"
+}

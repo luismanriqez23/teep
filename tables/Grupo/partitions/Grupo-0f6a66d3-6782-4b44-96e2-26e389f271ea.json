@@ -1,0 +1,14 @@
+{
+  "name": "Grupo-0f6a66d3-6782-4b44-96e2-26e389f271ea",
+  "mode": "import",
+  "source": {
+    "type": "m",
+    "expression": [
+      "let",
+      "    Origen = Sql.Database(\"192.168.4.3\", \"Teep\"),",
+      "    dbo_Grupo = Origen{[Schema=\"dbo\",Item=\"Grupo\"]}[Data]",
+      "in",
+      "    dbo_Grupo"
+    ]
+  }
+}

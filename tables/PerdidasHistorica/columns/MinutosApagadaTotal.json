@@ -1,0 +1,17 @@
+{
+  "name": "MinutosApagadaTotal",
+  "dataType": "double",
+  "sourceColumn": "MinutosApagadaTotal",
+  "lineageTag": "152362a0-0aae-40b7-b93f-69dc67f832d3",
+  "summarizeBy": "sum",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "PBI_FormatHint",
+      "value": "{\"isGeneralNumber\":true}"
+    }
+  ]
+}

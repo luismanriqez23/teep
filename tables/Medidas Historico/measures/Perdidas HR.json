@@ -1,0 +1,11 @@
+{
+  "name": "Perdidas HR",
+  "expression": "SUM(PerdidasHistorica[MinutosApagadaTotal])/60",
+  "formatString": "0.00",
+  "lineageTag": "9d4eb34e-cc3e-45e6-8722-166e80648b93",
+  "changedProperties": [
+    {
+      "property": "FormatString"
+    }
+  ]
+}

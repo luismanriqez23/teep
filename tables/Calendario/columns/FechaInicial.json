@@ -1,0 +1,31 @@
+{
+  "name": "FechaInicial",
+  "dataType": "dateTime",
+  "sourceColumn": "FechaInicial",
+  "formatString": "General Date",
+  "sourceProviderType": "datetime",
+  "lineageTag": "d0b64846-9515-40fb-aa08-9c57e55c2f91",
+  "summarizeBy": "none",
+  "variations": [
+    {
+      "name": "Variation",
+      "relationship": "530f06a8-1db9-439e-a902-27fb0ebdd8f9",
+      "defaultHierarchy": {
+        "table": "LocalDateTable_7826afd7-bcbe-4b01-ad13-4ff941146483",
+        "hierarchy": "Jerarquía de fechas"
+      },
+      "isDefault": true
+    }
+  ],
+  "changedProperties": [
+    {
+      "property": "FormatString"
+    }
+  ],
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

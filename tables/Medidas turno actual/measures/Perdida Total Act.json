@@ -1,0 +1,17 @@
+{
+  "name": "Perdida Total Act",
+  "expression": [
+    "",
+    "",
+    "IF(MAX(PerdidasActual[PerdidaTotal]) =BLANK(), [HM Prog Act] , MAX(PerdidasActual[PerdidaTotal])/60 )",
+    "",
+    "//MAX(PerdidasActual[PerdidaTotal])/60 "
+  ],
+  "formatString": "0.000",
+  "lineageTag": "7ec658d0-4830-444d-b842-b7ede42ae419",
+  "changedProperties": [
+    {
+      "property": "FormatString"
+    }
+  ]
+}

@@ -1,0 +1,278 @@
+{
+  "name": "es-ES",
+  "linguisticMetadata": {
+    "content": {
+      "Version": "2.0.0",
+      "Language": "en-US",
+      "Entities": {
+        "grupo.descgrupo": {
+          "Definition": {
+            "Binding": {
+              "ConceptualEntity": "Grupo",
+              "ConceptualProperty": "DescGrupo"
+            }
+          },
+          "State": "Generated",
+          "Terms": [
+            {
+              "Grupo": {
+                "State": "Suggested",
+                "Source": {
+                  "Type": "External",
+                  "Agent": "PowerBI.VisualColumnRename"
+                },
+                "Weight": 0.9
+              }
+            }
+          ]
+        },
+        "calendario.fechainicial": {
+          "Definition": {
+            "Binding": {
+              "ConceptualEntity": "Calendario",
+              "ConceptualProperty": "FechaInicial"
+            }
+          },
+          "State": "Generated"
+        },
+        "programacionhistorica.turnos_total": {
+          "Definition": {
+            "Binding": {
+              "ConceptualEntity": "ProgramacionHistorica",
+              "ConceptualProperty": "Turnos Total"
+            }
+          },
+          "State": "Generated"
+        },
+        "programacionhistorica.horas_total_historico": {
+          "Definition": {
+            "Binding": {
+              "ConceptualEntity": "ProgramacionHistorica",
+              "ConceptualProperty": "Horas Total Historico"
+            }
+          },
+          "State": "Generated"
+        },
+        "maquina.descmaquina": {
+          "Definition": {
+            "Binding": {
+              "ConceptualEntity": "Maquina",
+              "ConceptualProperty": "DescMaquina"
+            }
+          },
+          "State": "Generated",
+          "Terms": [
+            {
+              "Máquina": {
+                "State": "Suggested",
+                "Source": {
+                  "Type": "External",
+                  "Agent": "PowerBI.VisualColumnRename"
+                },
+                "Weight": 0.9
+              }
+            },
+            {
+              "Maquina": {
+                "State": "Suggested",
+                "Source": {
+                  "Type": "External",
+                  "Agent": "PowerBI.VisualColumnRename"
+                },
+                "Weight": 0.9
+              }
+            }
+          ]
+        },
+        "subgrupo.descsubgrupo": {
+          "Definition": {
+            "Binding": {
+              "ConceptualEntity": "SubGrupo",
+              "ConceptualProperty": "DescSubGrupo"
+            }
+          },
+          "State": "Generated",
+          "Terms": [
+            {
+              "Subgrupo": {
+                "State": "Suggested",
+                "Source": {
+                  "Type": "External",
+                  "Agent": "PowerBI.VisualColumnRename"
+                },
+                "Weight": 0.9
+              }
+            },
+            {
+              "Grupo": {
+                "State": "Suggested",
+                "Source": {
+                  "Type": "External",
+                  "Agent": "PowerBI.VisualColumnRename"
+                },
+                "Weight": 0.9
+              }
+            }
+          ]
+        },
+        "horasmaquinahistorico.meta_oee": {
+          "Definition": {
+            "Binding": {
+              "ConceptualEntity": "Metas",
+              "ConceptualProperty": "Meta OEE"
+            }
+          },
+          "State": "Generated",
+          "Terms": [
+            {
+              "Meta": {
+                "State": "Suggested",
+                "Source": {
+                  "Type": "External",
+                  "Agent": "PowerBI.VisualColumnRename"
+                },
+                "Weight": 0.9
+              }
+            }
+          ]
+        },
+        "kilosactual.ton_actual": {
+          "Definition": {
+            "Binding": {
+              "ConceptualEntity": "KilosActual",
+              "ConceptualProperty": "Ton Actual"
+            }
+          },
+          "State": "Generated",
+          "Terms": [
+            {
+              "Real": {
+                "State": "Suggested",
+                "Source": {
+                  "Type": "External",
+                  "Agent": "PowerBI.VisualColumnRename"
+                },
+                "Weight": 0.9
+              }
+            }
+          ]
+        },
+        "medidas_turno_actual.oee_act": {
+          "Definition": {
+            "Binding": {
+              "ConceptualEntity": "Medidas turno actual",
+              "ConceptualProperty": "OEE Act"
+            }
+          },
+          "State": "Generated",
+          "Terms": [
+            {
+              "OEE": {
+                "State": "Suggested",
+                "Source": {
+                  "Type": "External",
+                  "Agent": "PowerBI.VisualColumnRename"
+                },
+                "Weight": 0.9
+              }
+            }
+          ]
+        },
+        "medidas_turno_actual.hm_real_act": {
+          "Definition": {
+            "Binding": {
+              "ConceptualEntity": "Medidas turno actual",
+              "ConceptualProperty": "HM Real Act"
+            }
+          },
+          "State": "Generated",
+          "Terms": [
+            {
+              "HM Real": {
+                "State": "Suggested",
+                "Source": {
+                  "Type": "External",
+                  "Agent": "PowerBI.VisualColumnRename"
+                },
+                "Weight": 0.9
+              }
+            }
+          ]
+        },
+        "medidas_historico.oee_hist": {
+          "Definition": {
+            "Binding": {
+              "ConceptualEntity": "Medidas Historico",
+              "ConceptualProperty": "OEE Hist"
+            }
+          },
+          "State": "Generated",
+          "Terms": [
+            {
+              "OEE": {
+                "State": "Suggested",
+                "Source": {
+                  "Type": "External",
+                  "Agent": "PowerBI.VisualColumnRename"
+                },
+                "Weight": 0.9
+              }
+            }
+          ]
+        },
+        "medidas_historico.perdidas_hr": {
+          "Definition": {
+            "Binding": {
+              "ConceptualEntity": "Medidas Historico",
+              "ConceptualProperty": "Perdidas HR"
+            }
+          },
+          "State": "Generated",
+          "Terms": [
+            {
+              "Black box (hr)": {
+                "State": "Suggested",
+                "Source": {
+                  "Type": "External",
+                  "Agent": "PowerBI.VisualColumnRename"
+                },
+                "Weight": 0.9
+              }
+            }
+          ]
+        },
+        "perdidashistoricas.perdida": {
+          "Definition": {
+            "Binding": {
+              "ConceptualEntity": "PerdidasHistoricas",
+              "ConceptualProperty": "% Perdida"
+            }
+          },
+          "State": "Generated"
+        },
+        "detencion.descdetencion": {
+          "Definition": {
+            "Binding": {
+              "ConceptualEntity": "Detencion",
+              "ConceptualProperty": "DescDetencion"
+            }
+          },
+          "State": "Generated",
+          "Terms": [
+            {
+              "Detención": {
+                "State": "Suggested",
+                "Source": {
+                  "Type": "External",
+                  "Agent": "PowerBI.VisualColumnRename"
+                },
+                "Weight": 0.9
+              }
+            }
+          ]
+        }
+      }
+    },
+    "contentType": "json"
+  }
+}

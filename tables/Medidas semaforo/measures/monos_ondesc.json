@@ -1,0 +1,9 @@
+{
+  "name": "monos_ondesc",
+  "expression": [
+    "",
+    "        var valor= CALCULATE(MAX(TurnoActualEncendido[valor]),Maquina[CodMaquina]=37)",
+    "        return SWITCH(valor,1,\"F\",0,\"D\",3,\"SP\")"
+  ],
+  "lineageTag": "87d0feaf-3e30-4f99-9ac5-c607815db357"
+}

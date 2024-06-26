@@ -1,0 +1,17 @@
+{
+  "name": "Kilos",
+  "dataType": "double",
+  "sourceColumn": "Kilos",
+  "lineageTag": "0c8c2995-2881-4e3f-be8c-16f44820c80c",
+  "summarizeBy": "sum",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "PBI_FormatHint",
+      "value": "{\"isGeneralNumber\":true}"
+    }
+  ]
+}

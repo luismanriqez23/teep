@@ -1,0 +1,7 @@
+{
+  "name": "07675ac0-8539-4e7b-9127-d064c5d663f7",
+  "fromTable": "Maquina",
+  "fromColumn": "SubGrupo",
+  "toTable": "SubGrupo",
+  "toColumn": "CodSubGrupo"
+}

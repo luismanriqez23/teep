@@ -1,0 +1,9 @@
+{
+  "name": "bb7_1_ondesc",
+  "expression": [
+    "",
+    "        var valor= CALCULATE(MAX(TurnoActualEncendido[valor]),Maquina[CodMaquina]=10)",
+    "        return SWITCH(valor,1,\"F\",0,\"D\",3,\"SP\")"
+  ],
+  "lineageTag": "4fa489a9-39cc-4155-b6a1-f3468520f279"
+}

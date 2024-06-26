@@ -1,0 +1,10 @@
+{
+  "name": "Medidas semaforo",
+  "lineageTag": "394aee0f-7c49-4f8c-b1ec-7ac516b7e150",
+  "annotations": [
+    {
+      "name": "PBI_ResultType",
+      "value": "Table"
+    }
+  ]
+}

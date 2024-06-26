@@ -1,0 +1,14 @@
+{
+  "name": "Titulos DAX-0fd0b4b7-1c6d-4a2c-ada4-85e3b9bd9ad8",
+  "mode": "import",
+  "source": {
+    "type": "m",
+    "expression": [
+      "let",
+      "    Source = Table.FromRows(Json.Document(Binary.Decompress(Binary.FromText(\"i45WSs/ISk/LUoqNBQA=\", BinaryEncoding.Base64), Compression.Deflate)), let _t = ((type nullable text) meta [Serialized.Text = true]) in type table [Column1 = _t]),",
+      "    #\"Columnas quitadas\" = Table.RemoveColumns(Source,{\"Column1\"})",
+      "in",
+      "    #\"Columnas quitadas\""
+    ]
+  }
+}

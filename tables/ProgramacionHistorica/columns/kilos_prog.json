@@ -1,0 +1,14 @@
+{
+  "name": "kilos_prog",
+  "dataType": "int64",
+  "sourceColumn": "kilos_prog",
+  "formatString": "#,0",
+  "lineageTag": "65fcf89b-4331-4baa-bf60-1cdad9a015db",
+  "summarizeBy": "sum",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

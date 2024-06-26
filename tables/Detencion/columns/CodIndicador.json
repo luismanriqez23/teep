@@ -1,0 +1,14 @@
+{
+  "name": "CodIndicador",
+  "dataType": "int64",
+  "sourceColumn": "CodIndicador",
+  "formatString": "0",
+  "lineageTag": "e692c787-d026-456d-a218-9788282f9cf8",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

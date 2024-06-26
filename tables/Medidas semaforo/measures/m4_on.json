@@ -1,0 +1,8 @@
+{
+  "name": "m4_on",
+  "expression": [
+    "var valor= CALCULATE(MAX(TurnoActualEncendido[valor]),Maquina[CodMaquina]=13)",
+    "        return SWITCH(valor,1,\"#7BF4B1\",0,\"#B92A33\",3,\"#808080\")"
+  ],
+  "lineageTag": "ce944421-3d67-4ae4-974a-b6d70bb0c96b"
+}

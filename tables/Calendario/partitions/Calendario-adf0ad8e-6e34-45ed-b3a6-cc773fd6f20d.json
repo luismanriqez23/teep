@@ -1,0 +1,14 @@
+{
+  "name": "Calendario-adf0ad8e-6e34-45ed-b3a6-cc773fd6f20d",
+  "mode": "import",
+  "source": {
+    "type": "m",
+    "expression": [
+      "let",
+      "    Origen = Sql.Database(\"192.168.4.3\", \"Teep_DWH\"),",
+      "    dbo_DM_CalendarioTurno = Origen{[Schema=\"dbo\",Item=\"DM_CalendarioTurno\"]}[Data]",
+      "in",
+      "    dbo_DM_CalendarioTurno"
+    ]
+  }
+}

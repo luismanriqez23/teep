@@ -1,0 +1,10 @@
+{
+  "name": "TurnoActualEncendido",
+  "lineageTag": "817b3ed0-d595-4e7f-86f6-3496c1521e68",
+  "annotations": [
+    {
+      "name": "PBI_ResultType",
+      "value": "Table"
+    }
+  ]
+}

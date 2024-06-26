@@ -1,0 +1,22 @@
+{
+  "type": "calculated",
+  "name": "Trimestre",
+  "dataType": "string",
+  "isDataTypeInferred": true,
+  "isHidden": true,
+  "expression": "\"Trim. \" & [NroTrimestre]",
+  "sortByColumn": "NroTrimestre",
+  "lineageTag": "68be1953-5c8b-4a74-8354-8a9a7c6977b6",
+  "dataCategory": "Quarters",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "User"
+    },
+    {
+      "name": "TemplateId",
+      "value": "Quarter"
+    }
+  ]
+}

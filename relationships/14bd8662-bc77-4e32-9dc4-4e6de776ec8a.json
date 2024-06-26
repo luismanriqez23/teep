@@ -1,0 +1,7 @@
+{
+  "name": "14bd8662-bc77-4e32-9dc4-4e6de776ec8a",
+  "fromTable": "KilosActual",
+  "fromColumn": "CodMaquina",
+  "toTable": "Maquina",
+  "toColumn": "CodMaquina"
+}

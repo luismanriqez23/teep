@@ -1,0 +1,29 @@
+{
+  "name": "fecha_programa",
+  "dataType": "dateTime",
+  "sourceColumn": "fecha_programa",
+  "formatString": "Long Date",
+  "lineageTag": "dcb82056-4e8e-4fc3-8f8c-0e038f941f29",
+  "summarizeBy": "none",
+  "variations": [
+    {
+      "name": "Variation",
+      "relationship": "96bdab25-f644-4e9d-85d8-7242c42d04c8",
+      "defaultHierarchy": {
+        "table": "LocalDateTable_ffce6f69-6f08-4655-b6fd-68a5a10cee74",
+        "hierarchy": "Jerarquía de fechas"
+      },
+      "isDefault": true
+    }
+  ],
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "UnderlyingDateTimeDataType",
+      "value": "Date"
+    }
+  ]
+}

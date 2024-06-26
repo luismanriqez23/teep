@@ -1,0 +1,15 @@
+{
+  "name": "HM Prog Hist",
+  "expression": [
+    "",
+    "--Se suma porque la programación histórica está aperturada por producto ",
+    "SUM(ProgramacionHistorica[hm])"
+  ],
+  "lineageTag": "bb9f5201-f678-4fee-aef4-1f1bc06facfe",
+  "annotations": [
+    {
+      "name": "PBI_FormatHint",
+      "value": "{\"isGeneralNumber\":true}"
+    }
+  ]
+}

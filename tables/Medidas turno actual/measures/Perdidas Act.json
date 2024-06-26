@@ -1,0 +1,11 @@
+{
+  "name": "Perdidas Act",
+  "expression": "SUM(PerdidasActual[MinutosApagadaTotal])/60",
+  "formatString": "0.0000",
+  "lineageTag": "00363460-46e9-46ec-80e6-d6a817895bd3",
+  "changedProperties": [
+    {
+      "property": "FormatString"
+    }
+  ]
+}

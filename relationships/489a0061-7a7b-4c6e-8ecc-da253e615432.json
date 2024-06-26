@@ -1,0 +1,7 @@
+{
+  "name": "489a0061-7a7b-4c6e-8ecc-da253e615432",
+  "fromTable": "KilosHistorico",
+  "fromColumn": "fecha_ini",
+  "toTable": "Calendario",
+  "toColumn": "FechaInicial"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Turno_Prog",
+  "dataType": "double",
+  "sourceColumn": "Turno_Prog",
+  "sourceProviderType": "float",
+  "lineageTag": "1149c5ba-be14-414d-8c63-92bc110748a3",
+  "summarizeBy": "sum",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "PBI_FormatHint",
+      "value": "{\"isGeneralNumber\":true}"
+    }
+  ]
+}

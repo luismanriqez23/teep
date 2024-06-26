@@ -1,0 +1,9 @@
+{
+  "name": "678499c5-4d45-d472-7edc-2d7d5def24b1",
+  "fromCardinality": "one",
+  "fromTable": "Maquina",
+  "fromColumn": "CodMaquina",
+  "toTable": "TurnoActualVelocidad",
+  "toColumn": "CodMaquina",
+  "crossFilteringBehavior": "bothDirections"
+}

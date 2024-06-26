@@ -1,0 +1,15 @@
+{
+  "name": "CodMaquina",
+  "dataType": "int64",
+  "sourceColumn": "CodMaquina",
+  "formatString": "0",
+  "sourceProviderType": "int",
+  "lineageTag": "d00f78f7-6ec2-4010-99c3-2f2ffc3eecaa",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

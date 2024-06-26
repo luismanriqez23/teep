@@ -1,0 +1,23 @@
+{
+  "name": "Perdida Total Hist",
+  "expression": [
+    "",
+    "CALCULATE(",
+    "SUMX(",
+    "    SUMMARIZE(PerdidasHistorica, Calendario[FechaInicial], Maquina[CodMaquina], \"PerdidaTotalAgrupada\",",
+    "                AVERAGE(PerdidasHistorica[PerdidaTotal])/60),",
+    "                    [PerdidaTotalAgrupada]), ALL(Detencion[DescDetencion]))"
+  ],
+  "lineageTag": "8331a784-351c-41c1-9e2e-1780d007fbd0",
+  "changedProperties": [
+    {
+      "property": "FormatString"
+    }
+  ],
+  "annotations": [
+    {
+      "name": "PBI_FormatHint",
+      "value": "{\"isGeneralNumber\":true}"
+    }
+  ]
+}

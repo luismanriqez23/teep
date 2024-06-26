@@ -1,0 +1,13 @@
+{
+  "name": "HM Real Act",
+  "expression": [
+    "",
+    "VAR tiempo_enc=",
+    "([Horas del turno Act] - [Perdida Total Act]) --Tiempo encendido real ",
+    "* [Factor de velocidad Act]                     -- Tiempo encendido calculado",
+    "",
+    "RETURN IF(tiempo_enc>[HM Prog Act], [HM Prog Act], tiempo_enc)"
+  ],
+  "formatString": "#,0.00",
+  "lineageTag": "b4cf9ab1-bf74-45fd-96ea-d968294aeade"
+}

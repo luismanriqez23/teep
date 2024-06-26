@@ -1,0 +1,14 @@
+{
+  "name": "PerdidasHistorica-340abe15-ac81-4724-987e-fc99df99c1f1",
+  "mode": "import",
+  "source": {
+    "type": "m",
+    "expression": [
+      "let",
+      "    Origen = Sql.Database(\"192.168.4.3\", \"Teep_DWH\"),",
+      "    dbo_FT_HorasPerdidas = Origen{[Schema=\"dbo\",Item=\"FT_HorasPerdidas\"]}[Data]",
+      "in",
+      "    dbo_FT_HorasPerdidas"
+    ]
+  }
+}

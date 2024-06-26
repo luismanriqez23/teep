@@ -1,0 +1,18 @@
+{
+  "name": "HM",
+  "dataType": "double",
+  "sourceColumn": "HM",
+  "sourceProviderType": "float",
+  "lineageTag": "fac44317-f6e3-41b2-9d0e-80c063a3bdb2",
+  "summarizeBy": "max",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "User"
+    },
+    {
+      "name": "PBI_FormatHint",
+      "value": "{\"isGeneralNumber\":true}"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "fecha_i",
+  "dataType": "dateTime",
+  "sourceColumn": "fecha_i",
+  "formatString": "General Date",
+  "lineageTag": "6510662d-0a1c-4e13-ba58-233d01e7afd7",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

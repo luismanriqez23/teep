@@ -1,0 +1,14 @@
+{
+  "name": "valor",
+  "dataType": "string",
+  "sourceColumn": "valor",
+  "sourceProviderType": "nvarchar(50)",
+  "lineageTag": "852b8c8e-46eb-42e5-933d-a558a5d8a3d3",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

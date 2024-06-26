@@ -1,0 +1,14 @@
+{
+  "name": "ProgramacionHistorica-70300b95-6b10-4c67-b9b4-2ec4c110dfae",
+  "mode": "import",
+  "source": {
+    "type": "m",
+    "expression": [
+      "let",
+      "    Origen = Sql.Database(\"192.168.4.3\", \"Teep_DWH\"),",
+      "    dbo_TurnoProductoHistorico = Origen{[Schema=\"dbo\",Item=\"BI_FT_ProgramacionKilos\"]}[Data]",
+      "in",
+      "    dbo_TurnoProductoHistorico"
+    ]
+  }
+}

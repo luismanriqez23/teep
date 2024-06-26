@@ -1,0 +1,14 @@
+{
+  "name": "DescGrupo",
+  "dataType": "string",
+  "sourceColumn": "DescGrupo",
+  "sourceProviderType": "varchar(100)",
+  "lineageTag": "1f1f2604-2d09-4ab9-9a16-076d797eda67",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

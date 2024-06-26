@@ -1,0 +1,13 @@
+{
+  "name": "TipoDetencion",
+  "dataType": "string",
+  "sourceColumn": "TipoDetencion",
+  "lineageTag": "af9e88bc-fa89-4bb8-a2b1-d515c8ddb074",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

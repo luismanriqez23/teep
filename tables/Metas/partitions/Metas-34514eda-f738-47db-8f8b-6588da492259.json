@@ -1,0 +1,14 @@
+{
+  "name": "Metas-34514eda-f738-47db-8f8b-6588da492259",
+  "mode": "import",
+  "source": {
+    "type": "m",
+    "expression": [
+      "let",
+      "    Origen = Sql.Database(\"192.168.4.3\", \"Teep\"),",
+      "    dbo_Grupo = Origen{[Schema=\"dbo\",Item=\"MetaOEE\"]}[Data]",
+      "in",
+      "    dbo_Grupo"
+    ]
+  }
+}

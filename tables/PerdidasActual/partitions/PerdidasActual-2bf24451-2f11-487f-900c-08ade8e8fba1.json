@@ -1,0 +1,13 @@
+{
+  "name": "PerdidasActual-2bf24451-2f11-487f-900c-08ade8e8fba1",
+  "mode": "directQuery",
+  "source": {
+    "type": "m",
+    "expression": [
+      "let",
+      "    Source = Sql.Database(\"192.168.4.3\", \"Teep\", [Query=\"SELECT [CodDetencion]#(lf)      ,[CodMaquina]#(lf)      ,[DescDetencion]#(lf)      ,[MinutosApagadaTotal]#(lf)      ,[DescMaquina]#(lf)      ,PerdidaTotal#(lf)      ,Turno_Prog#(lf)      ,HM#(lf)      ,HM_Total#(lf)  FROM [Teep].[dbo].[DWH_Perdidas_TurnoActual]\"])",
+      "in",
+      "    Source"
+    ]
+  }
+}

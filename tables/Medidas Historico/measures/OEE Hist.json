@@ -1,0 +1,20 @@
+{
+  "name": "OEE Hist",
+  "expression": [
+    "",
+    "CALCULATE(",
+    "    AVERAGEX(",
+    "   ",
+    "        SUMMARIZE(PerdidasHistorica, Calendario[FechaInicial], Maquina[CodMaquina], \"OeeAgrupado\" ,",
+    "            DIVIDE([HM Real Hist], [HM Prog Hist], BLANK()))",
+    "   ",
+    "   ,[OeeAgrupado]), ALL(Detencion[DescDetencion]))"
+  ],
+  "formatString": "0\\ %;-0\\ %;0\\ %",
+  "lineageTag": "575c0e09-c344-408e-aab7-9188146bcb64",
+  "changedProperties": [
+    {
+      "property": "FormatString"
+    }
+  ]
+}

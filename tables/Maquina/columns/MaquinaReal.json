@@ -1,0 +1,14 @@
+{
+  "name": "MaquinaReal",
+  "dataType": "string",
+  "sourceColumn": "MaquinaReal",
+  "sourceProviderType": "varchar(50)",
+  "lineageTag": "2e3f22aa-bea3-4534-8e54-0d455e359afa",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

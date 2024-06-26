@@ -1,0 +1,10 @@
+{
+  "name": "Calendario",
+  "lineageTag": "51e1cd5e-38b3-4784-b6a3-47f7f182f587",
+  "annotations": [
+    {
+      "name": "PBI_ResultType",
+      "value": "Table"
+    }
+  ]
+}

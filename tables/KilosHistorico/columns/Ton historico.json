@@ -1,0 +1,21 @@
+{
+  "type": "calculated",
+  "name": "Ton historico",
+  "dataType": "double",
+  "isDataTypeInferred": true,
+  "expression": "KilosHistorico[Kilos]/1000",
+  "formatString": "#,0.0",
+  "lineageTag": "5c5a667e-8df9-4522-858e-8cd59bf9b4dd",
+  "summarizeBy": "sum",
+  "changedProperties": [
+    {
+      "property": "FormatString"
+    }
+  ],
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

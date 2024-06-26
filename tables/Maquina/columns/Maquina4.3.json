@@ -1,0 +1,14 @@
+{
+  "name": "Maquina4.3",
+  "dataType": "int64",
+  "sourceColumn": "Maquina4.3",
+  "formatString": "0",
+  "lineageTag": "d59983b2-cfb0-497a-9c72-80ec368b609e",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "User"
+    }
+  ]
+}

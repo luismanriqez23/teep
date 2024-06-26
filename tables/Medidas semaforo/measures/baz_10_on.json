@@ -1,0 +1,9 @@
+{
+  "name": "baz_10_on",
+  "expression": [
+    "",
+    "        var valor= CALCULATE(MAX(TurnoActualEncendido[valor]),Maquina[CodMaquina]=33)",
+    "        return SWITCH(valor,1,\"#7BF4B1\",0,\"#B92A33\",3,\"#808080\")"
+  ],
+  "lineageTag": "560a4d89-dda5-4ca8-be51-cd4f88cb38ec"
+}

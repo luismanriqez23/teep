@@ -1,0 +1,13 @@
+{
+  "name": "Origen",
+  "dataType": "string",
+  "sourceColumn": "Origen",
+  "lineageTag": "b120b30b-975e-4314-ad5f-0a3583498784",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

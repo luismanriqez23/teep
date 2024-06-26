@@ -1,0 +1,11 @@
+{
+  "name": "Meta OEE",
+  "expression": "MAX(Metas[Meta])",
+  "formatString": "0\\ %;-0\\ %;0\\ %",
+  "lineageTag": "0d0436c9-0fc7-4596-89f4-a9d8aedc7dcd",
+  "changedProperties": [
+    {
+      "property": "FormatString"
+    }
+  ]
+}

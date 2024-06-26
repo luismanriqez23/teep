@@ -1,0 +1,14 @@
+{
+  "name": "CodMaquinaMalla",
+  "dataType": "int64",
+  "sourceColumn": "CodMaquinaMalla",
+  "formatString": "0",
+  "lineageTag": "4b68229f-78da-4c93-8e0b-37e3ebd867ca",
+  "summarizeBy": "sum",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

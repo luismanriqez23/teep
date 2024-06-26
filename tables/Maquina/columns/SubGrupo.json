@@ -1,0 +1,14 @@
+{
+  "name": "SubGrupo",
+  "dataType": "int64",
+  "sourceColumn": "SubGrupo",
+  "formatString": "0",
+  "lineageTag": "466be749-da06-40d1-8537-36cfb2d36313",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "User"
+    }
+  ]
+}

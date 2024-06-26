@@ -1,0 +1,13 @@
+{
+  "name": "maquina_real",
+  "dataType": "string",
+  "sourceColumn": "maquina_real",
+  "lineageTag": "a3515735-f7ae-478c-b760-363ca4e370c0",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

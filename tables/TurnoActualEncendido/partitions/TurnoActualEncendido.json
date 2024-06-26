@@ -1,0 +1,13 @@
+{
+  "name": "TurnoActualEncendido",
+  "mode": "directQuery",
+  "source": {
+    "type": "m",
+    "expression": [
+      "let",
+      "    Source = Sql.Database(\"192.168.4.3\", \"Teep\", [Query=\"SELECT *, GETDATE() AS actualizacion#(lf)FROM BI_estado_maquinas\"])",
+      "in",
+      "    Source"
+    ]
+  }
+}

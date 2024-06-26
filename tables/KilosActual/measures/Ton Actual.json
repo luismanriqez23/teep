@@ -1,0 +1,11 @@
+{
+  "name": "Ton Actual",
+  "expression": "SUM(KilosActual[Kilos])/1000",
+  "formatString": "#,0.0",
+  "lineageTag": "12b47851-6266-46fc-b548-d8bdd97de8fc",
+  "changedProperties": [
+    {
+      "property": "FormatString"
+    }
+  ]
+}

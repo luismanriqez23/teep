@@ -1,0 +1,21 @@
+{
+  "type": "calculated",
+  "name": "Ton programado historico",
+  "dataType": "double",
+  "isDataTypeInferred": true,
+  "expression": "ProgramacionHistorica[kilos_prog]/1000",
+  "formatString": "#,0.0",
+  "lineageTag": "48be1aeb-8ed5-4157-ad6d-6ed2d9a3d983",
+  "summarizeBy": "sum",
+  "changedProperties": [
+    {
+      "property": "FormatString"
+    }
+  ],
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

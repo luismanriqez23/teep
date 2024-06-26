@@ -1,0 +1,9 @@
+{
+  "name": "e21e6ed6-fdb0-054c-3573-0003d242f8ef",
+  "fromCardinality": "one",
+  "fromTable": "Maquina",
+  "fromColumn": "CodMaquina",
+  "toTable": "TurnoActualEncendido",
+  "toColumn": "CodMaquina",
+  "crossFilteringBehavior": "bothDirections"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "f81d8db9-ea2d-4d3f-ac5b-81b1a33d9afd",
+  "fromTable": "PerdidasHistorica",
+  "fromColumn": "CodDetencion",
+  "toTable": "Detencion",
+  "toColumn": "CodDetencion"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "HM Real Hist",
+  "expression": [
+    "",
+    "",
+    "VAR hm_real= [Horas del turno Hist] - [Perdida Total Hist]",
+    "",
+    "RETURN",
+    "IF([HM Prog Hist]< hm_real , [HM Prog Hist],  hm_real)*[Factor Velocidad Hist]"
+  ],
+  "lineageTag": "bea0f645-b894-482c-b620-8bcf7765f85d",
+  "annotations": [
+    {
+      "name": "PBI_FormatHint",
+      "value": "{\"isGeneralNumber\":true}"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Meta",
+  "dataType": "double",
+  "sourceColumn": "Meta",
+  "formatString": "0\\ %;-0\\ %;0\\ %",
+  "lineageTag": "fd72ea14-9870-4912-ac84-4394d81104a8",
+  "summarizeBy": "sum",
+  "changedProperties": [
+    {
+      "property": "FormatString"
+    }
+  ],
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "monos_on",
+  "expression": [
+    "var valor= CALCULATE(MAX(TurnoActualEncendido[valor]),Maquina[CodMaquina]=37)",
+    "        return SWITCH(valor,1,\"#7BF4B1\",0,\"#B92A33\",3,\"#808080\")"
+  ],
+  "lineageTag": "b6c75b97-4c8a-4ce1-b2b9-8c454c8ca01f"
+}

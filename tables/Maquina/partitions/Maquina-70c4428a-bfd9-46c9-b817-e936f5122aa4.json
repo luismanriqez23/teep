@@ -1,0 +1,14 @@
+{
+  "name": "Maquina-70c4428a-bfd9-46c9-b817-e936f5122aa4",
+  "mode": "import",
+  "source": {
+    "type": "m",
+    "expression": [
+      "let",
+      "    Origen = Sql.Database(\"192.168.4.3\", \"Teep\"),",
+      "    dbo_Maquina = Origen{[Schema=\"dbo\",Item=\"Maquina\"]}[Data]",
+      "in",
+      "    dbo_Maquina"
+    ]
+  }
+}

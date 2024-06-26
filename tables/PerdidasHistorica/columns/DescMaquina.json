@@ -1,0 +1,13 @@
+{
+  "name": "DescMaquina",
+  "dataType": "string",
+  "sourceColumn": "DescMaquina",
+  "lineageTag": "276a6844-8c2b-49c8-8eaf-0f52e40b22bf",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    }
+  ]
+}

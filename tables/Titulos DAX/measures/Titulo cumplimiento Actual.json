@@ -1,0 +1,5 @@
+{
+  "name": "Titulo cumplimiento Actual",
+  "expression": "\"Cumplimiento \" & MIN(SubGrupo[DescSubGrupo]) &\" \"&  SUBSTITUTE(LEFT(FORMAT(ROUND([% Cumplimiento Turno actual]*100,0),\"Currency\"),3),\",\",\"\") & \"% (Ton)\"",
+  "lineageTag": "d594139c-f4bc-45ea-a440-ea9975baa093"
+}

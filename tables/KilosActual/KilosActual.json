@@ -1,0 +1,10 @@
+{
+  "name": "KilosActual",
+  "lineageTag": "12d173dc-6482-4455-9107-e6a8b16992d4",
+  "annotations": [
+    {
+      "name": "PBI_ResultType",
+      "value": "Table"
+    }
+  ]
+}

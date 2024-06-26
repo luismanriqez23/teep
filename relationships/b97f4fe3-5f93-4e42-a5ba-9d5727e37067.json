@@ -1,0 +1,7 @@
+{
+  "name": "b97f4fe3-5f93-4e42-a5ba-9d5727e37067",
+  "fromTable": "PerdidasHistorica",
+  "fromColumn": "Fecha_ini",
+  "toTable": "Calendario",
+  "toColumn": "FechaInicial"
+}

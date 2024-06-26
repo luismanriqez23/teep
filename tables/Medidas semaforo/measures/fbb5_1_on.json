@@ -1,0 +1,9 @@
+{
+  "name": "fbb5_1_on",
+  "expression": [
+    "",
+    "        var valor= CALCULATE(MAX(TurnoActualEncendido[valor]),Maquina[CodMaquina]=50)",
+    "        return SWITCH(valor,1,\"#7BF4B1\",0,\"#B92A33\",3,\"#808080\")"
+  ],
+  "lineageTag": "d093781e-43a0-4667-9ca2-8c15e9c31043"
+}
